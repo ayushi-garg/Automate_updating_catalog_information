@@ -3,12 +3,12 @@
 import os
 import requests
 import json
-text_files = os.listdir("/home/student-02-a90500197f9a/supplier-data/descriptions/")
+text_files = os.listdir("/home/student-02-2aa6d7b235d1/supplier-data/descriptions/")
 # data_dict = {"title":"test","name":"test","date":"test","feedback":"test"} 
 data_dict = {} 
 
 for txt in text_files: 
-    with open("/home/student-02-a90500197f9a/supplier-data/descriptions/"+txt) as fileobj:
+    with open("/home/student-02-2aa6d7b235d1/supplier-data/descriptions/"+txt) as fileobj:
         list_of_entries = fileobj.readlines()
         data_dict["name"] = list_of_entries[0].strip()
         data_dict["weight"] = list_of_entries[1].strip()[:-4]

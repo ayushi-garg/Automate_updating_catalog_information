@@ -10,11 +10,11 @@ import os
 
 
 def main(argv):
-  """Process the JSON data and generate a full report out of it."""
+  """Process the data and generate a report out of it."""
   summary = []
-  text_files = os.listdir("/home/student-02-a90500197f9a/supplier-data/descriptions/")
+  text_files = os.listdir("/home/student-02-2aa6d7b235d1/supplier-data/descriptions/")
   for txt in text_files: 
-    with open("/home/student-02-a90500197f9a/supplier-data/descriptions/"+txt) as fileobj:
+    with open("/home/student-02-2aa6d7b235d1/supplier-data/descriptions/"+txt) as fileobj:
         list_of_entries = fileobj.readlines()
         summary.append("name: "+list_of_entries[0].strip())
         summary.append("weight: "+list_of_entries[1].strip())
