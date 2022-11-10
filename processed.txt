@@ -1,0 +1,23 @@
+Processed Update on March 11, 2022
+name: Kiwifruit
+weight: 250 lbs
+name: Strawberry
+weight: 240 lbs
+name: Plum
+weight: 150 lbs
+name: Watermelon
+weight: 500 lbs
+name: Apple
+weight: 500 lbs
+name: Avocado
+weight: 200 lbs
+name: Grape
+weight: 200 lbs
+name: Lemon
+weight: 300 lbs
+name: Mango
+weight: 300 lbs
+name: Blackberry
+weight: 150 lbs
+
+
