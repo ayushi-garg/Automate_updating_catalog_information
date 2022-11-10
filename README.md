@@ -19,3 +19,6 @@ Automate updating catalog information
 ## Output Screenshot
 ![Screenshot from 2022-11-11 02-24-38](https://user-images.githubusercontent.com/43042767/201209693-6a8f9a98-d2a5-42e8-b48e-9e1d996a84d0.png)
 ![Screenshot from 2022-11-11 02-24-55](https://user-images.githubusercontent.com/43042767/201209699-13e8a02a-fa40-44ec-b0d9-f7025f3db965.png)
+
+![Screenshot from 2022-11-11 02-59-50](https://user-images.githubusercontent.com/43042767/201210077-f35070a1-f106-4120-9679-81319ab3db7c.png)
+![Screenshot from 2022-11-11 03-00-40](https://user-images.githubusercontent.com/43042767/201210083-e99880e5-78db-4589-94e2-db9f5643bb7c.png)
