@@ -16,7 +16,7 @@ Automate updating catalog information
 * Automatically sent a PDF by email
 * Wrote a script to check the health status of the system
 
-## Output Screenshot
+## Output Screenshots
 ![Screenshot from 2022-11-11 02-24-38](https://user-images.githubusercontent.com/43042767/201209693-6a8f9a98-d2a5-42e8-b48e-9e1d996a84d0.png)
 ![Screenshot from 2022-11-11 02-24-55](https://user-images.githubusercontent.com/43042767/201209699-13e8a02a-fa40-44ec-b0d9-f7025f3db965.png)
 
